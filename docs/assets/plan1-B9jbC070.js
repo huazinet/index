@@ -1,0 +1,1 @@
+const t={date:"2024-05",Title:"某东京豆",Subtitle:"自动化任务全托管",Includes:["多账号","多种登陆方式","实时查询","农场","积分抽奖等多种玩法"],Excludes:["不保证京豆数量","黑号无解"],Price:"Free"},e="",c="";export{t as attributes,e as html,c as markdown};
