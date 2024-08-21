@@ -2,7 +2,7 @@
 date: '2022'
 title: '毛豆框架'
 cover: 'maodou.png'
-url: 'https://mddoo.com'
+url: 'https://mddframe.top'
 tags:
   - 机器人
   - 自动化
