@@ -2,7 +2,7 @@
 date: '2023'
 title: '毛豆框架官网上线'
 cover: 'mddoo_web.jpg'
-url: 'https://mddoo.com'
+url: 'https://mddframe.top'
 tags:
   - 无服务器Web
   - 官网
