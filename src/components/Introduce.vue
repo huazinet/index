@@ -94,7 +94,7 @@ formattedHtml.value = formatHtml(html);
 }
 
 .jn-introduce-bg {
-    background-image: url('/contents/memoji.png');
+    background-image: url('/contents/memoji.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
