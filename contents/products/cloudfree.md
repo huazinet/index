@@ -1,6 +1,6 @@
 ---
 date: '2014'
-title: 'TG白万级用户关键词监控'
+title: 'TG百万级用户关键词监控'
 cover: 'TG.jpg'
 url: 'https://t.me/huazinet1/16'
 tags:
