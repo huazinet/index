@@ -11,4 +11,7 @@ tags:
 ---
 
 这是一款短剧搜索引擎，所有内容均来自互联网所提供的公开引用资源，未提供资源上传、存储服务；用户可通过api接口直接获取资源链接，无须网页操作，适合接入搜剧Bot等场景
+
+网址：https://pan.sharehub.club
+
 API接口：https://pan.sharehub.club/api/search?page_no=1&page_size=20&title=短剧名
